@@ -2,7 +2,7 @@
 layout: post
 title:  "Playboi Carti - Molly"
 date:   2019-07-26 12:00:00 -0700
-categories: leak rap
+categories: leak
 ---
 Listen to this song now.
 
