@@ -12,7 +12,7 @@ Listen to this song now.
 
 [Download Zoom by Lil Uzi Vert][1]
 
-Right click on the download link and save as mp3
+Right click on the download link and save as .mp3
 
 [1]:{{ site.url }}/music/LilUziVertZoom.mp3
 
