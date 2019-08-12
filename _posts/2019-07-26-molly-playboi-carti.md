@@ -6,9 +6,13 @@ categories: leak rap
 ---
 Listen to this song now.
 
+<audio controls>
+  <source src="https://venomthearchives.github.io/music/PlayboiCartiMolly.mp3" type="audio/mpeg">
+</audio>
+
 [Download Molly by Playboi Carti][1]
 
-> Right click on the download link and save as mp3 if you are having trouble
+Right click on the download link and save as mp3
 
 [1]:{{ site.url }}/music/PlayboiCartiMolly.mp3
 
